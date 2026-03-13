@@ -38,4 +38,5 @@ You will need an active Azure AI Content Safety resource. You can input your End
 
 
 #Acknowledgments
+
 A special thanks to my mentor, Mr. Abhimanyu Sharma (ByteXL Faculty), for his continued guidance and support on this project, and to Chandigarh University for fostering an environment of innovation.
