@@ -21,5 +21,17 @@ This project demonstrates the real-time application of cloud-based machine learn
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/azure-content-safety-dashboard.git](https://github.com/yourusername/azure-content-safety-dashboard.git)
-   cd azure-content-safety-dashboard
+   git clone https://github.com/DivyanshShukla-Hub/Azure-content-safety-Model.git
+
+2. Install the required dependencies:
+   
+       Bash
+       pip install -r requirements.txt
+   
+3. Add your Azure Credentials:
+You will need an active Azure AI Content Safety resource. You can input your Endpoint and API Key directly into the app's secure sidebar.
+
+4.Run the application:
+
+     Bash
+    streamlit run app.py
