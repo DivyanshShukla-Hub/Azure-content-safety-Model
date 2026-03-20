@@ -5,6 +5,7 @@ A professional-grade web application built to analyze both **Text** and **Images
 
 This project demonstrates the real-time application of cloud-based machine learning models in content moderation, vision AI, and cybersecurity.
 
+
 ## ✨ Key Features
 * **Multi-Modal Analysis:** Seamlessly toggle between scanning text strings or uploading image files (`.jpg`, `.png`).
 * **Real-Time Risk Scoring:** Instantly scores content across four critical hazard categories: Hate, Self-Harm, Sexual, and Violence (Severity 0-6).
