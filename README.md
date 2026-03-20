@@ -12,10 +12,12 @@ This project demonstrates the real-time application of cloud-based machine learn
 * **Smart Session Memory:** Automatically tracks and securely stores recent scan history during the active session, tagged with media type icons (📝/🖼️).
 * **Enterprise UI:** Custom branding integration highlighting technology providers and university affiliations.
 
+
 ## 🛠️ Technologies Used
 * **Backend:** Microsoft Azure AI Content Safety API (Text & Vision Models)
 * **Frontend:** Streamlit 
 * **Language:** Python
+
 
 ## 🚀 How to Run Locally
 
